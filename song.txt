@@ -3,7 +3,13 @@ asddasda
 asdads
 new line
 add gui
+<<<<<<< HEAD
 
 
 some content
 and here
+=======
+>>>>>>> c87d8e15874e98f28ce83675d1808b202b38ff68
+
+
+asdadadasffa
