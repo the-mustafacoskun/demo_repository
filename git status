@@ -1,0 +1,31 @@
+[33mcommit 6cb90b0e43e39c8ee6a78dc8503ac0c66902d621[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: the-mustafacoskun <the.mustafacoskun@gmail.com>
+Date:   Sun Oct 18 19:19:36 2026 +0300
+
+    undo commit
+
+[33mcommit c87d8e15874e98f28ce83675d1808b202b38ff68[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: the-mustafacoskun <the.mustafacoskun@gmail.com>
+Date:   Sun Oct 18 17:32:50 2026 +0300
+
+    added to new line to end of the song file and remove first line see how gui works
+
+[33mcommit 7537e65f6112bc9339737bd15d0978aa0dc163bc[m
+Author: the-mustafacoskun <the.mustafacoskun@gmail.com>
+Date:   Sun Oct 18 17:25:46 2026 +0300
+
+    Add new line to song.txt
+    
+    Add a new line to the end of song.txt
+
+[33mcommit 3dc41e66e40fe8e8cb016d34edf3cbc486032b8b[m
+Author: the-mustafacoskun <the.mustafacoskun@gmail.com>
+Date:   Sun Oct 18 13:54:23 2026 +0300
+
+    add first 2 lines in the song.txt
+
+[33mcommit c32406e4e71633c365cbfdc044bda501c07f28c8[m
+Author: the-mustafacoskun <the.mustafacoskun@gmail.com>
+Date:   Sun Oct 18 13:27:07 2026 +0300
+
+    Initial commit
