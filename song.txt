@@ -3,10 +3,7 @@ asddasda
 asdads
 new line
 add gui
-<<<<<<< HEAD
-=======
 
 
 some content
 and here
->>>>>>> 4d35db5 (second commit)
